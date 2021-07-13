@@ -1,8 +1,8 @@
 ## Sobre esta avaliação
 
 Prezados avaliadores, espero que os códigos estejam a contento. Devido ao
-pouco tempo que pude dedicar pra fazê-los, talvez não sejam os melhores
-possíveis, mas ainda assim fiz o melhor possível.
+pouco tempo que pude dedicar pra fazê-los, talvez não sejam os melhores,
+mas ainda assim fiz o melhor possível.
 
 Quanto o arquivo `ResponsavelDepartamento.sql`, não pude testá-lo em meu
 computador devido sê-lo Ubuntu e não ter conseguido instalar o Microsoft
